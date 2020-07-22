@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">gridView</string>
+    <string name="imgname">Image Name</string>
+    <string name="albumname">Album Name</string>
+    <string name="anedit">enter the album name</string>
+    <string name="okay">ok</string>
+    <string name="can">cancel</string>
+</resources>
